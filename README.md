@@ -1,5 +1,5 @@
 # Search-Missing-Object
-Game mencari barang hilan &amp; mengurutkan barang 
+Game mencari barang hilang &amp; mengurutkan barang 
 
 
 Judul : Cari Barang yang Hilang
